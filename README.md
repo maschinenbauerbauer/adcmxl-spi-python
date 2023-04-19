@@ -18,6 +18,6 @@ The Wiring diagram can be seen below. This uses the Main SPIdev Interface of the
 [Include Image here]
 
 # Thanks
-Many thanks to the person, suggestion their version for the ADCMXL3032 in this forum entry:
+Many thanks to the person, suggesting their version for the ADCMXL3032 in this forum entry:
 https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
 
